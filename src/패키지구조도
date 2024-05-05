@@ -1,0 +1,11 @@
+src
+    - controller 패키지
+        - membercontroller 클래스
+
+    - model 패키지
+
+    - view 패키기
+
+    - lib 패키지 * 외부라이브러리 모아두는 곳
+
+    - AppStart 클래스d
